@@ -16,7 +16,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/wangqiannian6/PDF_watermaker.git
+git clone https://github.com/kenny-qian/PDF_watermaker.git
 cd PDF_watermaker
 ```
 
